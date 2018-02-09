@@ -25,15 +25,12 @@ url: http://username.github.io
 baseurl: 
 description: A virtual proof that name is awesome!
 navbar-links:
-  Latest news:
-  Geodata:
-#  - Beautiful Jekyll: http://deanattali.com/beautiful-jekyll/
-#  - Learn markdown: http://www.markdowntutorial.com/
-#  - GitHub Pages: https://pages.github.com/
-  Maps:
-  Geoportals:
-  Services:
-  About:
+  Latest news: 
+  Geodata: 
+  Maps: 
+  Geoportals: 
+  Services: 
+  About: 
 avatar: "/img/avatar-icon2.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
