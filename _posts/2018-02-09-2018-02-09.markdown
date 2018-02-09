@@ -9,7 +9,7 @@ geo.admin.ch is the platform for the Federal Administration’s georeferenced in
 
 geo.admin.ch is the practical implementation of the Geoinformation Act (GeoIG). This enables the exchange and efficient use of geographical information, based on the Federal spatial data infrastructure, FSDI.
 
-<iframe src='https://map.geo.admin.ch/embed.html?lang=fr&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2613230.41&N=1184355.38&zoom=0' width='400' height='300' frameborder='0' style='border:0'></iframe>
+<iframe src='https://map.geo.admin.ch/embed.html?lang=fr&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&E=2613230.41&N=1184355.38&zoom=0' width='100%' height='300' frameborder='0' style='border:0'></iframe>
 
 * The portal is an important and necessary step in the implementation of the GeoIG. Basic geodata are rapidly available over the Internet, in a clearly structured and complete form.
 
