@@ -32,6 +32,7 @@ navbar-links:
   Services: 
   About: 
 avatar: "/img/avatar-icon2.png"
+title-img: /img/logo.png
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
