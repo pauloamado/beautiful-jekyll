@@ -1,6 +1,8 @@
 ---
 title: geo.admin.ch on S3 bucket
 date: 2018-02-09 04:01:00 -11:00
+comments: false
+social-share: false
 ---
 
 **geo.admin.ch is the geographical information platform of the Swiss Confederation within the Federal Administration. As a user, you can directly access federal geographical information, data, services and metadata right here.**
