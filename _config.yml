@@ -1,31 +1,28 @@
----
+# --- General options --- #
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "http://username.github.io"
+baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
+
+# Name of website
 title: My website
-timezone: Pacific/Pago_Pago
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    comments: true
-    social-share: true
-- scope:
-    path: ''
-  values:
-    layout: page
-    show-avatar: true
-url: http://username.github.io
-baseurl: 
+
+# Short description of your site
 description: A virtual proof that name is awesome!
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
 navbar-links:
-<<<<<<< HEAD
   Latest News:
   Geodata:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
