@@ -1,0 +1,14 @@
+---
+title: geo.admin.ch on S3 bucket
+date: 2018-02-09 04:01:00 -11:00
+---
+
+**geo.admin.ch is the geographical information platform of the Swiss Confederation within the Federal Administration. As a user, you can directly access federal geographical information, data, services and metadata right here.**
+
+geo.admin.ch is the platform for the Federal Administration’s georeferenced information, data and services. These are made available by public bodies and are accessible to all via the Internet, on geo.admin.ch.
+
+geo.admin.ch is the practical implementation of the Geoinformation Act (GeoIG). This enables the exchange and efficient use of geographical information, based on the Federal spatial data infrastructure, FSDI.
+
+* The portal is an important and necessary step in the implementation of the GeoIG. Basic geodata are rapidly available over the Internet, in a clearly structured and complete form.
+
+* This portal gives access to the important information on the official geodata of the Confederation through a single web address. geo.admin.ch is the information platform for the official geodata of every Federal Office.
